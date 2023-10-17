@@ -1,0 +1,3 @@
+﻿  Client_try.cpp
+E:\Практика\Client_try\Client_try\Client_try.cpp(63,6): warning C4101: res: неиспользованная локальная переменная
+  Client_try.vcxproj -> E:\Практика\Client_try\Debug\Client_try.exe

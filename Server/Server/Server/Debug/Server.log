@@ -1,0 +1,7 @@
+﻿  Server.cpp
+E:\Практика\Server\Server\Server\Server.cpp(29,8): warning C4101: file: неиспользованная локальная переменная
+E:\Практика\Server\Server\Server\Server.cpp(240,11): warning C4101: file: неиспользованная локальная переменная
+E:\Практика\Server\Server\Server\Server.cpp(253,11): warning C4101: file: неиспользованная локальная переменная
+E:\Практика\Server\Server\Server\Server.cpp(273,10): warning C4101: file: неиспользованная локальная переменная
+E:\Практика\Server\Server\Server\Server.cpp(291,10): warning C4101: file: неиспользованная локальная переменная
+  Server.vcxproj -> E:\Практика\Server\Server\Debug\Server.exe

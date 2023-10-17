@@ -1,0 +1,4 @@
+0 | Good, bad and ugly  | Rock  | Serj  | 203 | 1966
+0 | 7 Samurai  | Drama  | Akira Kurosawa  | 207 | 1954
+0 | A Fistful of Dollars  | Western  | Serjo Leone  | 99 | 1964
+0 | Irishman  | Drama  | Martin Scorsese  | 180 | 2019

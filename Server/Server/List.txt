@@ -1,0 +1,9 @@
+0 | Good, bad and ugly | Rock | Serj | 203 | 1966
+1 | Night at the Opera | Rock | Queen | 210 | 1975
+1 | Rust in Peace | Rock | Mehadeath | 57 | 1990
+0 | 7 Samurai | Drama | Akira Kurosawa | 207 | 1954
+1 | Back in Black | Rock | AC/DC | 41 | 1980
+1 | Thriller | Pop | Michael Jackson | 42 | 1982
+0 | A Fistful of Dollars | Western | Serjo Leone | 99 | 1964
+1 | Bad | Pop | Michael Jackson | 48 | 1982
+0 | Irishman | Drama | Martin Scorsese | 180 | 2019

@@ -1,0 +1,2 @@
+1 | Thriller  | Pop  | Michael Jackson  | 42 | 1982
+1 | Bad  | Pop  | Michael Jackson  | 48 | 1982
