@@ -34,7 +34,7 @@ int main()
 	//lst->load("TypeList0.txt");
 	//lst->load("TypeList1.txt");
 	//cout << "вывыодим" << endl;
-	lst->print();//*/
+	//lst->print();//*/
 	string str;
 
 	WSADATA wsaData;
